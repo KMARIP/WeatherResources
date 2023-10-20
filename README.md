@@ -10,16 +10,6 @@ Key Features:
 
 3. Real-Time Updates: Weather conditions can change rapidly. WeatherResources ensures that you receive real-time updates, including temperature, humidity, wind speed, and more.
 
-4. Weather Alerts: Stay safe and informed with weather alerts from the National Weather Service. Receive timely notifications about severe weather conditions, such as thunderstorms, hurricanes, and more.
-
-5. 5-Day Forecast: Plan your week with a 5-day weather forecast that includes daily and nightly predictions, so you know what to expect.
-
-6. User-Friendly Interface: WeatherResources is designed with a clean and intuitive interface, making it easy for users of all ages to access and understand weather data.
-
-7. Customized Favorites: Save your favorite cities for quick access to weather information for multiple locations.
-
-8. Radar and Satellite Views: Check out radar and satellite images to see the current weather patterns in your selected city.
-
 WeatherResources is your one-stop app for all things weather-related. Whether you're a traveler, a weather enthusiast, or simply want to stay prepared, this app ensures you're always in the know about the current and upcoming weather conditions in any city. Download WeatherResources today and never be caught off guard by the weather again!
 ## Installation
 
