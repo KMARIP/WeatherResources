@@ -6,14 +6,14 @@ setup(
     description="A simple weather app",
     author="KMAR",
     author_email="kmaripradio@gmail.com",
-    packages=["weather_resources"],
+    packages=["WeatherResources"],
     install_requires=[
         "requests",
         "geopy",
     ],
     entry_points={
         "console_scripts": [
-            "weather_resources=weather_resources:main",
+            "WeatherResources=WeatherResources:main",
         ],
     },
 )
