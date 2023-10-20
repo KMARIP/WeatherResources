@@ -1,7 +1,7 @@
 
 # KMAR's WeatherResources
 
- WeatherResources is a must-have mobile app for weather enthusiasts and anyone looking for up-to-the-minute weather information for any city. With its user-friendly interface and access to the National Weather Service's data, WeatherResources is your go-to tool for staying informed about weather conditions.
+ WeatherResources is a must-have PC app for weather enthusiasts and anyone looking for up-to-the-minute weather information for any city. With its user-friendly interface and access to the National Weather Service's data, WeatherResources is your go-to tool for staying informed about weather conditions.
 
 Key Features:
 1. City-Specific Weather Data: WeatherResources allows you to select any city or location you're interested in. Simply input the city name, and the app provides you with detailed weather reports.
