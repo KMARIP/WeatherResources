@@ -30,6 +30,12 @@ Install WeatherResources via Git on Linux
 ```
 On Windows, click ```Releases``` and download the Windows Release.
 
+## Usage
+On Linux and Windows, install ```Python 3.11``` and run this command.
+```bash
+  cd WeatherResources
+  python WeatherResources.py
+```
 
 ## License
 
